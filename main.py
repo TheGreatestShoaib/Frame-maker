@@ -18,4 +18,4 @@ def frame(inp):
 	cv2.imshow("last",frame)
 	cv2.waitKey(0)
 
-frame("kakashi2.jpg")
+frame("kakashi2.jpg") # picture name 
